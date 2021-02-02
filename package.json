@@ -9,7 +9,6 @@
     "test": "lab -a code -v -t 93 test/test.js"
   },
   "dependencies": {
-    "hoek": "^4.2.1",
     "joi": "^13.1.2",
     "node-expat": "^2.3.18"
   },
